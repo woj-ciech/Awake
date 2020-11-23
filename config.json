@@ -1,0 +1,19 @@
+{
+  "monitor": {
+    "threads": 50
+  },
+  "elasticsearch": {
+    "host": "localhost",
+    "port": 9200
+  },
+  "telegram": {
+    "channel_id": "channelid",
+    "token": "token"
+  },
+  "log_file": "bbm_log.log",
+  "bb_file": "bb.txt",
+  "shodan_key": "shodankey",
+  "binaryedge_key": "binaryedgekey",
+  "securitytrails_key": "securitytrailskey",
+  "domains_to_monitor": ["exodus.io"]
+}
