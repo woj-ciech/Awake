@@ -140,4 +140,5 @@ Domain codex.nflxext.com has been sucessfully added
 
 ## Checks
 CNAME and technology used on website
+
 ![](https://www.offensiveosint.io/content/images/2020/11/bb3.png)
